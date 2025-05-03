@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/crypto",
+      "destination": "/api/crypto.js"
+    }
+  ]
+}
